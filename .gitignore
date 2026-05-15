@@ -1,0 +1,17 @@
+# 환경변수
+.env
+.env.local
+.env.*.local
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+*.pem

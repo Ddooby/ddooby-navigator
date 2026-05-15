@@ -1,0 +1,5 @@
+# Phase 2 에서 아래 파일들을 LottieFiles 에서 다운로드:
+#   - frog_jump.json    (마커/리액션)
+#   - frog_loading.json (경로 계산 중)
+#   - frog_arrive.json  (도착 세레모니)
+# 외부 URL 런타임 fetch 금지 — 로컬 require() 만 허용.
