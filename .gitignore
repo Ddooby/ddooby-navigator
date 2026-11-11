@@ -15,3 +15,6 @@ npm-debug.log*
 # OS
 .DS_Store
 *.pem
+
+# 에이전트 로컬 상태
+.omc/
